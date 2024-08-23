@@ -12,7 +12,7 @@ def create_ui():
     
     :return: L'URL de la vidéo YouTube entrée par l'utilisateur
     """
-    st.title("Extracteur de Transcripts YouTube et Générateur de Résumés")
+    st.title("Extracteur de transcripts YouTube et générateur de résumés")
     
     url = st.text_input("Entrez l'URL de la vidéo YouTube:")
     
