@@ -1,4 +1,4 @@
-# POC 2 - Génération de résumés courts (abstracts) à partir des transcripts YouTube
+# POC 2.1 - Génération de résumés courts en utilisant l'API d'OpenAI et gpt4o-mini à partir des transcripts YouTube
 
 ## Installation de l'environnement python avec Conda
 
