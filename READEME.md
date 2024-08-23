@@ -91,7 +91,7 @@ graph TD
 5. **ai_service.py** (Nouveau fichier)
    - Rôle : Interface avec les services d'IA pour la génération de résumés.
    - Fonctionnement :
-     - Gère les appels API vers les services d'IA (par exemple, OpenAI GPT).
+     - Gère les appels API vers les services d'IA (OpenAI GPT4o-mini).
      - Peut inclure des fonctions pour formater les prompts et traiter les réponses.
 
 6. **utils.py**
