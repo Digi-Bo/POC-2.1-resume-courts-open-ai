@@ -15,6 +15,13 @@ le `p`implique qu'il sera créé dans le dossier de travail
 conda activate ./venv
 ```
 
+
+- **Pour installer les dépendances**
+```
+pip install -r requirements.txt
+```
+
+
 - **Si vous souhaitez le supprimer par la suite**
 ```
 rm -rf ./venv
