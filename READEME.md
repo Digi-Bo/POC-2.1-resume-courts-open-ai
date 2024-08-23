@@ -108,3 +108,11 @@ graph TD
    - Modifications pour le POC 2 :
      - Ajout de variables de configuration pour les services d'IA (clés API, paramètres par défaut pour la génération de résumés, etc.).
 
+8. **.env**
+   - (non disponible sur le repo) Contient la clés API, contient le nom du modèle
+
+```
+OPENAI_API_KEY=sk-proj...
+OPENAI_MODEL=gpt-40-mini
+```
+
